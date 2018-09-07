@@ -19,6 +19,3 @@ else :
 	header("Location: index.html");
 endif;
 ?>
-<pre>
-	<?php print_r($GLOBALS);?>
-</pre>
